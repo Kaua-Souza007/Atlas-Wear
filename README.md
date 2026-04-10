@@ -1,6 +1,6 @@
 *ATLAS WEAR*
 
-*Projeto de extensão Universidade Nove de Julho*
+(*Projeto de extensão Universidade Nove de Julho*)
 
 _OBJETIVO_
 
