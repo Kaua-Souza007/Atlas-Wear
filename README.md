@@ -4,13 +4,13 @@ _OBJETIVO_
 
 Apresentar a empresa Atlas Wear, destacando sua identidade, forma de atuação no mercado e os princípios que orientam seu funcionamento, simulando a estrutura de um negócio real no setor de vestuário.
 
-ATUAÇÃO
+_ATUAÇÃO_
 
 = Venda de roupas no modelo varejista
 
 A Atlas Wear atua no setor de moda, realizando a venda direta de roupas ao consumidor final, com foco em estilo moderno, conforto e qualidade.
 
-O QUE A EMPRESA OFERECE
+_O QUE A EMPRESA OFERECE_
 
 A empresa comercializa diversos tipos de roupas, entre eles
 
@@ -23,7 +23,7 @@ A empresa comercializa diversos tipos de roupas, entre eles
 Todos os produtos são pensados para atender diferentes estilos, valorizando a identidade de cada cliente.
 
 
-FUNCIONAMENTO DA EMPRESA (FLUXO)
+_FUNCIONAMENTO DA EMPRESA (FLUXO)_
 
 O funcionamento da Atlas Wear segue um processo organizado:
 
@@ -35,7 +35,7 @@ O funcionamento da Atlas Wear segue um processo organizado:
 
 Esse fluxo representa o funcionamento básico de uma loja online.
 
-RELACIONAMENTO COM CLIENTES
+_RELACIONAMENTO COM CLIENTES_
 
 A empresa mantém contato com os clientes de forma digital, buscando oferecer um atendimento eficiente e de qualidade.
 
@@ -49,7 +49,7 @@ As principais ações incluem:
 
 O objetivo é gerar confiança e fidelizar os clientes.
 
-IDENTIDADE DA EMPRESA
+_IDENTIDADE DA EMPRESA_
 
 A Atlas Wear é guiada por princípios que definem sua forma de atuação no mercado:
 
@@ -66,7 +66,7 @@ Tornar-se referência no mercado de moda, destacando-se pela inovação e excel�
 - Compromisso;
 - Ética.
 
-ESTRUTURA ORGANIZACIONAL
+_ESTRUTURA ORGANIZACIONAL_
 
 A empresa possui uma estrutura simples e funcional, dividida em setores:
 
