@@ -1,6 +1,6 @@
-ATLAS WEAR
+*ATLAS WEAR*
 
-OBJETIVO
+_OBJETIVO_
 
 Apresentar a empresa Atlas Wear, destacando sua identidade, forma de atuação no mercado e os princípios que orientam seu funcionamento, simulando a estrutura de um negócio real no setor de vestuário.
 
